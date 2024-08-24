@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "fullcalendar": "^6.1.15",
+    "popper.js": "^1.16.1",
+    "sweetalert2": "^11.12.4"
+  }
+}
